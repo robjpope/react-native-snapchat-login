@@ -8,7 +8,7 @@ import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.snapchat.kit.sdk.SnapLogin;
 import com.snapchat.kit.sdk.core.controller.LoginStateController;
